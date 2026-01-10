@@ -1,0 +1,11 @@
+services:
+  color-chan-wiki:
+    image: zensical/zensical
+    container_name: color-chan-wiki
+    restart: unless-stopped
+    ports:
+      - "7562:7562"
+    volumes:
+      - ./:/docs
+    tty: true
+    command: ["serve", "--dev-addr=0.0.0.0:7562"]
