@@ -58,7 +58,7 @@ You can also add your own custom colors to the color list. However, this does re
 
 ## Deleting colors
 
-??? warning "Caution"
+??? danger "Caution"
 
     Be careful when using the delete or clear commands, as they will permanently remove colors from your color list. Make sure to double-check before confirming any deletions.
 
