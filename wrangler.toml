@@ -1,2 +1,3 @@
+name = "color-chan-wiki"
 compatibility_date = "2026-01-11"
 pages_build_output_dir = "./site"
