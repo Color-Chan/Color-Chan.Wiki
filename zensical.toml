@@ -1,7 +1,7 @@
 [project]
 variant = "modern"
 site_name = "Color-Chan Wiki"
-site_description = "The official wiki for Color-Chan Discord Bot"
+site_description = "The official wiki for the Color-Chan Discord Bot"
 site_url = "https://wiki.colorchan.com"
 dev_addr = "http://127.0.0.1:7562"
 site_author = "Color-Chan"

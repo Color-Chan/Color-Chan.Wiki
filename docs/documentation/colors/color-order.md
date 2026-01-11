@@ -6,6 +6,7 @@ icon: lucide/arrow-up-0-1
 
     This section assumes that you have already added colors to your server. If you haven't done so yet, please refer to the [Adding Colors](./adding-colors.md) section first.
 
+
 ## Changing the order of the colors
 
 You can change the order of the colors in your color list by changing the position of the color roles in your server's role settings.
