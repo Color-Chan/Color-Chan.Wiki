@@ -1,5 +1,3 @@
 name = "color-chan-wiki"
 compatibility_date = "2026-01-11"
-account_id = "ece0f0f941807196e9e5b353d377ce0f"
-workers_dev = true
 pages_build_output_dir = "./site"
