@@ -9,8 +9,9 @@ This sections covers all the basics you need to get started with using Color-Cha
 
 ## Inviting Color-Chan
 
-First, you need to invite Color-Chan to your server. You can do this by clicking on the invite link provided on the [Color-Chan website](https://colorchan.com/permalinks/invite). 
-Make sure you have the necessary permissions to add bots to your server.
+First, you need to invite Color-Chan to your server. You can do this by clicking on the invite link [Color-Chan website](https://colorchan.com/permalinks/invite) or by clicking on the button bellow.
+
+[Invite Color-Chan](https://colorchan.com/permalinks/invite){ .md-button .md-button--primary }
 
 
 ## Move Color-Chan's role
@@ -29,7 +30,7 @@ You can do this by using the `/add rgb color` or `/add hex color`. These command
 
 You can now view your color list with `/color list`! This command will display the full list of colors that have been added to your server.
 
-![Color List](../img/ColorList.png){ align=left, width="800", loading=lazy }
+![Color List](../img/ColorList.png){ align=left, width="600" loading=lazy }
 /// caption
 Example output of the `/color list` command
 ///
@@ -40,7 +41,7 @@ Example output of the `/color list` command
 You can also create reaction color lists that allow users to self-assign color roles by clicking on a button.
 You can either add all the available colors to reaction lists with `/add reaction colors` or you can add specific colors with `/add reaction color`.
 
-![Reaction List](../img/ColorReactionList.png){ align=left, width="800", loading=lazy }
+![Reaction List](../img/ColorReactionList.png){ align=left, width="600" loading=lazy }
 /// caption
 Example reaction list
 ///
