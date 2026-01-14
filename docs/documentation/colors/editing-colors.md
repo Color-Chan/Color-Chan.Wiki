@@ -28,7 +28,7 @@ Both the hex and rgb edit commands require you to provide the name or color numb
 - Changing Green (2) to Orange: `/edit hex color new_name:Orange hex:#FFA500 color:2`
 - Changing Blue to Purple: `/edit hex color new_name:Purple hex:#800080 color:Blue`
 
-![Edit hex color](../../img/EditHexColor.png){ align=left width="300" loading=lazy }
+![Edit hex color](../../img/EditHexColor.png){  width="300" loading=lazy }
 /// caption
 Example output of the `/edit hex color` command
 ///

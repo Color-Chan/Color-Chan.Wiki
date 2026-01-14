@@ -12,7 +12,7 @@ icon: lucide/arrow-up-0-1
 You can change the order of the colors in your color list by changing the position of the color roles in your server's role settings.
 The highest color roles will be color number 1, the second-highest color role will be color number 2, and so on.
 
-![Moving color roles](../../img/MovingColorRoles.png){ align=left width="800" loading=lazy }
+![Moving color roles](../../img/MovingColorRoles.png){ width="800" loading=lazy }
 /// caption
 Moving a color role to change its position in the color list
 ///
