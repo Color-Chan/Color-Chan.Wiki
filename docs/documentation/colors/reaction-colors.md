@@ -19,7 +19,7 @@ More information on how to add colors can be found below.
 You can create reaction color lists that allow users to self-assign color roles by clicking on a button.
 You can either add all the available colors to reaction lists with `/add reaction colors` or you can add specific colors with `/add reaction color`.
 
-![Reaction List](../../img/ColorReactionList.png){ align=left width="600" loading=lazy }
+![Reaction List](../../img/ColorReactionList.png){ width="600" loading=lazy }
 /// caption
 Example reaction list
 ///
@@ -52,7 +52,7 @@ However, if that does not work then you will need to use the `/delete reaction l
 If you want to delete all reaction lists in your server, you can use the `/delete all reaction lists` command.
 This command will first ask for confirmation before proceeding to delete all reaction lists to prevent accidental deletions.
 
-![Clear reaction lists](../../img/ClearReactionListsConfirmation.png){ align=left width="400" loading=lazy }
+![Clear reaction lists](../../img/ClearReactionListsConfirmation.png){  width="400" loading=lazy }
 /// caption
 Confirmation prompt when using the `/delete all reaction lists` command
 ///

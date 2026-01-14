@@ -2,8 +2,6 @@
 icon: lucide/save
 ---
 
-# Saves
-
 Color-Chan allows you to create backups of your color list, called "saves". These saves can be used to restore your color list to a previous state at any time. This is useful if you want to experiment with different color lists or if you accidentally delete colors from your list.
 
 
@@ -11,7 +9,7 @@ Color-Chan allows you to create backups of your color list, called "saves". Thes
 
 A save can be created using the `/save` command. This command will automatically create a new backup of your current color list.
 
-![Save](../../img/Save.png){ align=left width="400" loading=lazy }
+![Save](../../img/Save.png){ width="500" loading=lazy }
 /// caption
 Example output of the `/save` command
 ///
@@ -23,7 +21,7 @@ As shown in the example above, each save is assigned a unique ID. This ID can be
 
 You can view all your saves using the `/saves` command. This command will display a list of all the saves you have created, along with their IDs, timestamps and an example command on how to restore the save.
 
-![Saves](../../img/Saves.png){ align=left width="700" loading=lazy }
+![Saves](../../img/Saves.png){ width="600" loading=lazy }
 /// caption
 Example output of the `/saves` command
 ///

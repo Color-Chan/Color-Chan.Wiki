@@ -30,7 +30,7 @@ You can do this by using the `/add rgb color` or `/add hex color`. These command
 
 You can now view your color list with `/color list`! This command will display the full list of colors that have been added to your server.
 
-![Color List](../img/ColorList.png){ align=left width="600" loading=lazy }
+![Color List](../img/ColorList.png){ width="600" loading=lazy }
 /// caption
 Example output of the `/color list` command
 ///
@@ -41,7 +41,7 @@ Example output of the `/color list` command
 You can also create reaction color lists that allow users to self-assign color roles by clicking on a button.
 You can either add all the available colors to reaction lists with `/add reaction colors` or you can add specific colors with `/add reaction color`.
 
-![Reaction List](../img/ColorReactionList.png){ align=left width="600" loading=lazy }
+![Reaction List](../img/ColorReactionList.png){ width="600" loading=lazy }
 /// caption
 Example reaction list
 ///

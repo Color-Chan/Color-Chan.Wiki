@@ -11,7 +11,7 @@ icon: lucide/rainbow
 
 You can add gradient colors to your color list using the `/add gradient color` command. This command allows you to create a color that transition smoothly between two colors.
 
-![Gradient color list](../../img/ColorListGradients.gif){ align=left width="600" loading=lazy }
+![Gradient color list](../../img/ColorListGradients.gif){ width="600" loading=lazy }
 /// caption
 Example color list with gradient colors
 ///
