@@ -1,5 +1,6 @@
 ---
 icon: lucide/sticker
+description: Guide on how to add and manage reaction colors in your Color-Chan color list
 ---
 
 ??? success "Requirements"

@@ -1,5 +1,6 @@
 ---
 icon: lucide/save
+description: Guide on how to create, view, share, restore, and delete saves of your Color-Chan color list
 ---
 
 Color-Chan allows you to create backups of your color list, called "saves". These saves can be used to restore your color list to a previous state at any time. This is useful if you want to experiment with different color lists or if you accidentally delete colors from your list.

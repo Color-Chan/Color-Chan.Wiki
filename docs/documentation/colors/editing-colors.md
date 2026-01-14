@@ -1,5 +1,6 @@
 ---
 icon: lucide/paintbrush
+description: Guide on how to edit existing colors in your Color-Chan color list
 ---
 
 ??? success "Requirements"

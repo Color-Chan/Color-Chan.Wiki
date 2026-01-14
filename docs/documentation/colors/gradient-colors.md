@@ -1,5 +1,6 @@
 ---
 icon: lucide/rainbow
+description: Guide on how to add gradient colors to your Color-Chan color list
 ---
 
 !!! info "Discord feature required"

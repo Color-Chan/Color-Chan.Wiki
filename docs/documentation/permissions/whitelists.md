@@ -1,5 +1,6 @@
 ---
 icon: lucide/lock-open
+description: Guide on how to manage whitelists and blacklists in Color-Chan
 ---
 
 ## Overview

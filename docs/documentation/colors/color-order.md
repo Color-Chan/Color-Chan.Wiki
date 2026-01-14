@@ -1,5 +1,6 @@
 ---
 icon: lucide/arrow-up-0-1
+description: Guide on how to change the order of colors in your Color-Chan color list
 ---
 
 ??? success "Requirements"

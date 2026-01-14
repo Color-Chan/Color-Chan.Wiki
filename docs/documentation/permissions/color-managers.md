@@ -1,5 +1,6 @@
 ---
 icon: lucide/shield-user
+description: Guide on how to manage the color management roles in Color-Chan
 ---
 
 ## Overview

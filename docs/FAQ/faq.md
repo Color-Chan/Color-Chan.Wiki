@@ -1,5 +1,7 @@
 ---
 title: FAQ
+icon: lucide/message-circle-question-mark
+description: Frequently Asked Questions about Color-Chan
 ---
 
 # Frequently Asked Questions

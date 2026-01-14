@@ -1,5 +1,6 @@
 ---
 icon: lucide/cloud-download
+description: Guide on how to import colors into your Color-Chan color list
 ---
 
 !!! info "Note"
