@@ -1,5 +1,5 @@
 ---
-icon: lucide/import
+icon: lucide/cloud-download
 ---
 
 !!! info "Note"
