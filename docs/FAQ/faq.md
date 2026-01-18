@@ -41,3 +41,6 @@ To remove Color-Chan from your server, you can simply kick the bot.
 
 ## 12. I am getting a `Generic Error` what do i do?
 A `Generic Error` only indicates that something went wrong, and Color-Chan was not able to handle the error properly. Please join the [Color-Chan Support Server](https://colorchan.com/permalinks/support) and provide your Server ID, description of what you were doing and the full command including the parameters that you used.
+
+## 13. Insufficient Permission error
+If you are getting the `Insufficient bot permissions!` error, please make sure that Color-Chan has the mentioned permission in your server. The permission should be granted by Color-Chan's role or by a different role and it should not be denied by the current channel's permission overrides.
