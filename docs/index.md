@@ -8,7 +8,7 @@ Welcome to the documentation for Color-Chan's documentation. Everything you need
 
 ## Getting Started
 
-New to Color-Chan? Check out our [Getting Started Guide](./Getting%20started/getting-started.md) to set up Color-Chan in your discord server!
+New to Color-Chan? Check out our [Getting Started Guide](./documentation/basics.md) to set up Color-Chan in your discord server!
 
 ## Frequently Asked Questions
 
