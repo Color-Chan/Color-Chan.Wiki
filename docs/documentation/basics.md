@@ -5,12 +5,12 @@ description: Basic guide on how to get started with Color-Chan
 
 # Getting Started
 
-This sections covers all the basics you need to get started with using Color-Chan!
+This section covers all the basics you need to get started with using Color-Chan!
 
 
 ## Inviting Color-Chan
 
-First, you need to invite Color-Chan to your server. You can do this by clicking on the invite link [Color-Chan website](https://colorchan.com/permalinks/invite) or by clicking on the button bellow. 
+First, you need to invite Color-Chan to your server. You can do this by clicking on the invite link [Color-Chan website](https://colorchan.com/permalinks/invite) or by clicking on the button below. 
 
 [Invite Color-Chan](https://colorchan.com/permalinks/invite){ .md-button .md-button--primary }
 
