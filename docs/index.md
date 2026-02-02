@@ -1,5 +1,6 @@
 ---
 title: Home 
+description: The official documentation wiki for the Color-Chan Discord bot
 ---
 
 # Color-Chan Wiki

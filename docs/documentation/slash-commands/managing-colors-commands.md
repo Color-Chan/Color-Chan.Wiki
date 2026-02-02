@@ -1,5 +1,6 @@
 ---
 icon: lucide/edit-3
+description: Overview of slash commands for managing color lists, saves, and imports
 ---
 
 An overview of all the available Managing Colors commands.

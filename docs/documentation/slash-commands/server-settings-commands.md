@@ -1,5 +1,6 @@
 ---
 icon: lucide/server
+description: Overview of slash commands for configuring server settings in Color-Chan
 ---
 
 An overview of all the available Server Settings commands.

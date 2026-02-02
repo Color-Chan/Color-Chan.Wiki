@@ -1,5 +1,6 @@
 ---
 icon: lucide/zap
+description: Overview of miscellaneous slash commands in Color-Chan
 ---
 
 An overview of all the available Miscellaneous commands.

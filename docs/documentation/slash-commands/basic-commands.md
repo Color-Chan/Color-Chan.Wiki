@@ -1,5 +1,6 @@
 ---
 icon: lucide/chevron-right
+description: Overview of basic slash commands in Color-Chan
 ---
 
 An overview of all the available Basic Commands commands.
