@@ -3,7 +3,7 @@ icon: lucide/paintbrush
 description: Information on Color-Chan's Discord Store integration for purchasing premium features
 ---
 
-Color-Chan's [Discord Store](https://discord.com/discovery/applications/436515089441488907/store) integration allows you to purchase premium features and subscriptions directly through Discord. This provides a seamless experience for server owners that want to get premium for their server without having to leave Discord.
+Color-Chan's [Discord Store](https://discord.com/discovery/applications/436515089441488907/store) integration allows you to purchase premium features and subscriptions directly through Discord. This provides a seamless experience for server owners who want to get premium for their server without having to leave Discord.
 
 ![Color-Chan Discord Store](../../img/DiscordColorChanStore.png){ width="800", loading=lazy }
 /// caption

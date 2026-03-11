@@ -10,7 +10,7 @@ description: Guide on how users can assign colors to themselves or others using 
 
 ## Set color command
 
-Users can assign their own color roles by using the `/set color` command. Or admins or [color managers](../permissions/color-managers.md) can assign colors to other users using the `/set members color @user` command.
+Users can assign their own color roles by using the `/set color` command, or admins or [color managers](../permissions/color-managers.md) can assign colors to other users using the `/set members color @user` command.
 When using the `/set color` command, users can either provide the name or number of the color they want to assign.
 
 ![Set Color](../../img/SetColor.png){  width="400" loading=lazy }

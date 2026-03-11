@@ -8,7 +8,7 @@ description: Guide on how to import colors into your Color-Chan color list
     Importing colors will not overwrite your existing color list. The imported colors will be added to the end of your current color list.
 
 
-The importing feature of Color-Chan allows you to easily transfer color lists between different servers. This is particularly useful for server administrators who manage multiple servers and want to maintain a consistent color scheme across them. Or if you want to set up a new server with the same colors as your existing server.
+The importing feature of Color-Chan allows you to easily transfer color lists between different servers. This is particularly useful for server administrators who manage multiple servers and want to maintain a consistent color scheme across them, or if you want to set up a new server with the same colors as your existing server.
 
 
 ## Importing colors

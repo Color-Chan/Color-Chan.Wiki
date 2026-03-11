@@ -3,7 +3,7 @@ icon: lucide/banknote
 description: Information on Color-Chan's Patreon integration for purchasing premium features
 ---
 
-Color-Chan's [Patreon](https://www.patreon.com/c/BrammyS) page offers an alternative way to support the development of Color-Chan and gain access to premium features for your server. You will also gain access to Color-Chan's patreon only Discord channel. The main difference between [Patreon](https://www.patreon.com/c/BrammyS) and the [Discord Store](./discord-store.md) is that patreon premium subscriptions can be used on multiple servers depending on your chosen plan, while [Discord Store](./discord-store.md) subscriptions are tied to a single server.
+Color-Chan's [Patreon](https://www.patreon.com/c/BrammyS) page offers an alternative way to support the development of Color-Chan and gain access to premium features for your server. You will also gain access to Color-Chan's Patreon-only Discord channel. The main difference between [Patreon](https://www.patreon.com/c/BrammyS) and the [Discord Store](./discord-store.md) is that Patreon premium subscriptions can be used on multiple servers depending on your chosen plan, while [Discord Store](./discord-store.md) subscriptions are tied to a single server.
 
 
 ## Tiers

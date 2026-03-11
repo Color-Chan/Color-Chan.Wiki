@@ -46,7 +46,7 @@ You will need to provide the name or the number of the reaction color that you w
 ### Deleting a specific reaction list
 
 Deleting a reaction list is normally quite simple. You can simply delete the message containing the reaction list, and it will be removed.
-However, if that does not work then you will need to use the `/delete reaction list` command followed by the ID of the reaction list message.
+However, if that does not work, then you will need to use the `/delete reaction list` command followed by the ID of the reaction list message.
 
 ### Deleting all reaction lists
 

@@ -14,7 +14,7 @@ description: Guide on how to add colors to your Color-Chan color list
 
 Color-Chan provides several default color lists that you can add to your server. These lists include a variety of colors that we have curated for you. You can add a default color list by using the `/add default colors` command. When using this command, you will get a selection of the currently available default color lists to choose from.
 
-Adding a default color list may take some time, please be patient while the colors are being added.
+Adding a default color list may take some time, so please be patient while the colors are being added.
 
 
 ## Color suggestions
@@ -43,11 +43,11 @@ You can also add your own custom colors to the color list. However, this does re
 
 ### Example RGB commands
 
-- Red: `/add hex color name:Red r:255 g:0 b:0`
-- Green: `/add hex color name:Green r:0 g:255 b:0`
-- Blue: `/add hex color name:Blue r:0 g:0 b:255`
-- Orange: `/add hex color name:Orange r:255 g:165 b:0`
-- Purple: `/add hex color name:Purple r:128 g:0 b:128`
+- Red: `/add rgb color name:Red r:255 g:0 b:0`
+- Green: `/add rgb color name:Green r:0 g:255 b:0`
+- Blue: `/add rgb color name:Blue r:0 g:0 b:255`
+- Orange: `/add rgb color name:Orange r:255 g:165 b:0`
+- Purple: `/add rgb color name:Purple r:128 g:0 b:128`
 
 ### Example HEX commands
 

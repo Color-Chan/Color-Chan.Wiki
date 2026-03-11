@@ -9,7 +9,7 @@ An overview of all the available Reaction Colors commands.
 Adds a reaction color to a color reaction message.
 
 ## /add reaction colors
-Add all the color roles to color reaction lists.
+Adds all the color roles to color reaction lists.
 
 ## /delete reaction color
 Deletes a specific reaction color.
@@ -17,5 +17,5 @@ Deletes a specific reaction color.
 ## /delete reaction list
 Deletes a specific reaction list.
 
-## /reaction  lists
+## /reaction lists
 Returns a list of all the current reaction lists.
