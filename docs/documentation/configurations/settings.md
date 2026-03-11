@@ -9,14 +9,14 @@ This section does not cover permission settings, which can be found [here](../pe
 
 
 ## Accent colors
-You can set your server's accent color using the `/accent  color` command. This color will be used in various places in Color-Chan, such as in color list embeds.
+You can set your server's accent color using the `/accent color` command. This color will be used in various places in Color-Chan, such as in color list embeds.
 
 ![Accent color](../../img/AccentColor.png){ width="500" loading=lazy }
 /// caption
-A color list the the `#FFFFFF` accent color
+A color list with the `#FFFFFF` accent color
 ///
 
-To reset the accent color to the default, you can use the `/accent color` without providing a color.
+To reset the accent color to the default, you can use the `/accent color` command without providing a color.
 
 
 ## Auto delete responses
@@ -34,7 +34,7 @@ When enabled, Color-Chan will automatically assign a color to new members when t
 This command has two options: `color` and `after-role`. 
 
 - The `color` option will assign a specific color from your color list to new members instead of a random color. 
-- The `after-role` option will assign the color role directly after the specified role in the role hierarchy. This is useful if you don't want to give new members that have not performed certain actions (like verifying).
+- The `after-role` option will assign the color role directly after the specified role in the role hierarchy. This is useful if you don't want to give a color to new members who have not performed certain actions (like verifying).
 
 
 ## Replies to reaction messages

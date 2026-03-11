@@ -3,7 +3,7 @@ icon: lucide/shield-check
 description: Overview of slash commands for managing whitelists and blacklists
 ---
 
-An overview of all the available Whitelist commands.
+An overview of all the available whitelist and blacklist commands.
 
 ## /color blacklist add
 Adds a role to the color blacklist.

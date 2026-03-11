@@ -10,7 +10,7 @@ This section covers all the basics you need to get started with using Color-Chan
 
 ## Inviting Color-Chan
 
-First, you need to invite Color-Chan to your server. You can do this by clicking on the invite link [Color-Chan website](https://colorchan.com/permalinks/invite) or by clicking on the button below. 
+First, you need to invite Color-Chan to your server. You can do this by clicking the invite link on the [Color-Chan website](https://colorchan.com/permalinks/invite) or by clicking on the button below.
 
 [Invite Color-Chan](https://colorchan.com/permalinks/invite){ .md-button .md-button--primary }
 
@@ -24,7 +24,7 @@ This ensures that the colors of the color roles are applied correctly because of
 ## Adding color roles
 
 Now we are ready to start adding color roles! The easiest way to add color roles is by using one of our default color lists. You can add a default color list by using the `/add default colors` command.
-You can do this by using the `/add rgb color` or `/add hex color`. These commands require you to provide either RGB values or a HEX code for the color you want to add. You can get color codes from various online color pickers, such as [HTML Color Picker](https://htmlcolorcodes.com/color-picker/).
+You can also add individual colors by using the `/add rgb color` or `/add hex color` commands. These commands require you to provide either RGB values or a HEX code for the color you want to add. You can get color codes from various online color pickers, such as [HTML Color Picker](https://htmlcolorcodes.com/color-picker/).
 
 
 ## Viewing the color list
