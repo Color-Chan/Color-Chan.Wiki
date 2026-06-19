@@ -3,7 +3,7 @@ icon: lucide/edit-3
 description: Overview of slash commands for managing color lists, saves, and imports
 ---
 
-An overview of all the available Managing Colors commands.
+An overview of all available managing colors commands.
 
 ## /clear color list
 Clears the color list. Note: This is irreversible!
@@ -27,7 +27,7 @@ Gets a list of all the saved color lists.
 Shares your save with others in Color-Chan's Art Class!
 
 ## /export color list
-Gets a unique ID used to import the color roles of this server to a different one.
+Gets a unique ID used to import this server's color roles into a different server.
 
 ## /import color list
 Imports an existing color list using an export ID.
@@ -36,4 +36,4 @@ Imports an existing color list using an export ID.
 Updates the color list, which can be useful when roles were accidentally removed or to apply a role edit.
 
 ## /update reaction lists
-Updates the reaction lists, can be used to apply changes to the reaction lists.
+Updates the reaction lists and can be used to apply changes to those lists.

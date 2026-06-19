@@ -7,7 +7,7 @@ description: Guide on how to manage the color channel settings in Color-Chan
 
 ??? info "Note"
 
-    Server owners, admins and people with [color management](./color-managers.md) roles are exempted from the color channel restriction and can use Color-Chan commands in any channel.
+    Server owners, administrators, and members with [color management](./color-managers.md) roles are exempt from the color channel restriction and can use Color-Chan commands in any channel.
 
 It is possible to restrict Color-Chan to a specific channel. We call this the "color channel". When a color channel is set, Color-Chan will only respond to commands issued in that channel. This can help keep your server organized and prevent clutter in other channels.
 

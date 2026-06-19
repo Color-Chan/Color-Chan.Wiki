@@ -1,6 +1,6 @@
 ---
-title: Home 
-description: The official documentation wiki for the Color-Chan Discord bot
+title: Home
+description: The official documentation wiki for the Color-Chan Discord Bot
 ---
 
 # Color-Chan Wiki
@@ -9,10 +9,10 @@ Welcome to Color-Chan's documentation. Everything you need to get started with C
 
 ## About Color-Chan
 
-Color-Chan is Discord's most advanced color roles bot! With Color-Chan you can easily add, manage, and assign color roles in your Discord server.
-Whether you're looking to add a splash of color to your server or want to give your members the ability to customize their roles, Color-Chan has got you covered.
+Color-Chan is Discord's most advanced color roles bot! With Color-Chan, you can easily add, manage, and assign color roles in your Discord server.
+Whether you're looking to add a splash of color to your server or want to give your members the ability to customize their roles, Color-Chan has you covered.
 
-You can get it fully customized to fit your server's needs with a wide range of features including:
+You can get it fully customized to fit your server's needs with a wide range of features, including:
 
 * Easy color role management
 * Gradient color roles

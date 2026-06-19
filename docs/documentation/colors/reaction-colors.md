@@ -34,7 +34,7 @@ You can get this with the `/reaction lists` command, which will display all the 
 
 ## Deleting reaction lists
 
-!!! Info "Important"
+!!! info "Important"
 
     Deleting a reaction list or a reaction color does not delete the color roles associated with it. It only removes the reaction color or list itself.
 
