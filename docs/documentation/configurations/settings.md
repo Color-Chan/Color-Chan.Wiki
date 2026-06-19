@@ -19,19 +19,19 @@ A color list with the `#FFFFFF` accent color
 To reset the accent color to the default, you can use the `/accent color` command without providing a color.
 
 
-## Auto delete responses
-You can enable or disable the auto delete feature for Color-Chan's responses using the `/toggle delete responses` command. When enabled, Color-Chan will automatically delete its responses after a certain period of time.
+## Auto-delete responses
+You can enable or disable the auto-delete feature for Color-Chan's responses using the `/toggle delete responses` command. When enabled, Color-Chan will automatically delete its responses after a certain period of time.
 
 
 ## Disabling the export feature
 You can choose to disable the export feature in Color-Chan using the `/toggle export command` command. When disabled, members will not be able to export your color lists.
 
 
-## Auto assign colors to new members
-You can enable or disable the auto assign colors to new members feature using the `/toggle join color` command. 
+## Auto-assign colors to new members
+You can enable or disable the auto-assign color feature for new members using the `/toggle join color` command.
 When enabled, Color-Chan will automatically assign a color to new members when they join your server.
 
-This command has two options: `color` and `after-role`. 
+This command has two options: `color` and `after-role`.
 
 - The `color` option will assign a specific color from your color list to new members instead of a random color. 
 - The `after-role` option will assign the color role directly after the specified role in the role hierarchy. This is useful if you don't want to give a color to new members who have not performed certain actions (like verifying).
