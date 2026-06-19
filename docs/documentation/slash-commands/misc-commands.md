@@ -24,13 +24,13 @@ Connects a server with your Patreon account.
 Disconnects a server from your Patreon account.
 
 ## /patreon info
-Returns information about your Patreon subscription.
+Returns some info about your Patreon subscription.
 
 ## /premium
 Returns information about the premium features of Color-Chan.
 
 ## /support
-Returns the invite link where you can get support for Color-Chan.
+Returns the invite where you can ask for support with Color-Chan.
 
 ## /vote
 Returns the link where you can vote for Color-Chan.
