@@ -12,6 +12,7 @@ site_dir = "site"
 language = "en"
 logo = "https://cdn.colorchan.com/favicon.ico"
 favicon = "https://cdn.colorchan.com/favicon.ico"
+custom_dir = "overrides"
 features = [
     "navigation.instant",
     "navigation.instant.prefetch",
@@ -26,6 +27,10 @@ features = [
 [[project.extra.social]]
 icon = "fontawesome/brands/discord"
 link = "https://colorchan.com/permalinks/support"
+
+[project.extra.analytics]
+provider = "custom"
+property = "e31a5e97-2bfe-4c01-aeea-5b733886bbf3"
 
 # Palette toggle for light mode
 [[project.theme.palette]]
