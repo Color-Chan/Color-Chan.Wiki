@@ -50,5 +50,8 @@ Edits a color role with a new name and new HEX color.
 ## /edit rgb color
 Edits a color role with a new name and new RGB color.
 
+## /sort color list
+Shows a private preview of the color list sorted the way you choose.
+
 ## /suggest color
 Suggests adding a random color role to the color list.

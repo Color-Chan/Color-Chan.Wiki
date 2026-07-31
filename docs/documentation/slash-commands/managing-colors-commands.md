@@ -26,6 +26,9 @@ Gets a list of all the saved color lists.
 ## /share save
 Shares your save with others in Color-Chan's Art Class!
 
+## /sort color list
+Shows a private preview of the color list sorted the way you choose.
+
 ## /export color list
 Gets a unique ID used to import the color roles of this server to a different one.
 
