@@ -12,8 +12,7 @@ the result, and only apply it once you're happy with how it looks.
 
 ## Previewing a sort
 
-Use the `/sort color list type:<type>` command to generate a preview of your color list sorted the way you choose. This preview is private, only visible to you, and does not change anything in your
-server until you apply it.
+Use the `/sort color list type:<type>` command to generate a preview of your color list sorted the way you choose. This preview does not change anything in your server until you apply it.
 
 The `type` option accepts the following sorting methods:
 
