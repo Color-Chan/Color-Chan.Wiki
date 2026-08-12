@@ -15,6 +15,9 @@ Removes the channel restrictions so Color-Chan can be used in all text channels 
 ## /channel set
 Sets the channel where Color-Chan's commands need to be used.
 
+## /image  style
+Shows a private preview of the available color list image styles.
+
 ## /management remove
 Removes a color management role from Color-Chan.
 
