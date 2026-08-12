@@ -33,7 +33,9 @@ The Refined Minimal style
 
 ### Premium styles
 
-These styles require [Color-Chan Premium](../premium/discord-store.md).
+!!! info "Requirements"
+
+    These styles require [Color-Chan Premium](../premium/discord-store.md).
 
 ![Editorial style](../../img/ColorListImageStyle-Editorial.png){ width="500" loading=lazy }
 /// caption
