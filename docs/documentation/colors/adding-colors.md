@@ -12,7 +12,7 @@ description: Guide on how to add colors to your Color-Chan color list
 
     A default color list can only be added if your current color list is empty. If you already have colors added, you will need to delete them first before adding a default color list.
 
-Color-Chan provides several default color lists that you can add to your server. These lists include a variety of colors that we have curated for you. You can add a default color list by using the `/add default colors` command. When using this command, you will get a selection of the currently available default color lists to choose from.
+Color-Chan provides several default color lists that you can add to your server. These lists include a variety of colors that we have curated for you. You can add a default color list by using the `/add default colors` command. When using this command, you will get a selection of the currently available default color lists to choose from. See the [Default Color Lists](./default-colors.md) page for a preview of every list.
 
 Adding a default color list may take some time, so please be patient while the colors are being added.
 
