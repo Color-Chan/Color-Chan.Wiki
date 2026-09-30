@@ -7,11 +7,13 @@ version: 2
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
-    reviewers:
-      - BrammyS
     schedule:
       interval: "weekly"
     groups:
       actions-deps:
         patterns:
           - "*"
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
