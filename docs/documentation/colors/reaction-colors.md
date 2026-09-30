@@ -29,7 +29,7 @@ Example reaction list
 
 ## Reaction list overview
 
-The `/delete reaction list` mentioned below requires the ID of the reaction list. This is the ID of the message itself.
+The `/delete reaction list` command mentioned below requires the ID of the reaction list. This is the ID of the message itself.
 You can get this with the `/reaction lists` command, which will display all the reaction lists in your server along with their IDs.
 
 
@@ -46,7 +46,7 @@ You will need to provide the name or the number of the reaction color that you w
 
 ### Deleting a specific reaction list
 
-Deleting a reaction list is normally quite simple. You can simply delete the message containing the reaction list, and it will be removed.
+Deleting a reaction list is normally quite simple. You can delete the message containing the reaction list, and it will be removed.
 However, if that does not work, then you will need to use the `/delete reaction list` command followed by the ID of the reaction list message.
 
 ### Deleting all reaction lists

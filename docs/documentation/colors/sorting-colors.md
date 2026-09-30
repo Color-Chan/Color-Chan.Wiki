@@ -8,8 +8,7 @@ description: Guide on how to automatically sort your Color-Chan color list
 
     This section assumes that you have already added colors to your server. If you haven't done so yet, please refer to the [Adding Colors](./adding-colors.md) section first.
 
-Color-Chan can automatically sort your color list for you, so you don't have to manually [reorder the color roles](./color-order.md) one by one. You choose how you'd like the colors sorted, preview
-the result, and only apply it once you're happy with how it looks.
+Color-Chan can automatically sort your color list for you, so you don't have to manually [reorder the color roles](./color-order.md) one by one. You choose how you'd like the colors sorted, preview the result, and only apply it once you're happy with how it looks.
 
 ## Previewing a sort
 
@@ -30,12 +29,11 @@ Once generated, the preview shows an **Apply Sorting** button.
 
 !!! info "Note"
 
-    Generating a preview can take a moment for larger color lists, Color-Chan will show a loading message while it puts the images together.
+    Generating a preview can take a moment for larger color lists. Color-Chan will show a loading message while it puts the images together.
 
 ## Applying a sort
 
-Press **Apply Sorting** on the preview to reorder the color roles in your server to match it. This updates the position of every color role and saves the new order to your color list, the same as if
-you had reordered the roles manually.
+Press **Apply Sorting** on the preview to reorder the color roles in your server to match it. This updates the position of every color role and saves the new order to your color list, the same as if you had reordered the roles manually.
 
 ??? info "Permissions"
 
