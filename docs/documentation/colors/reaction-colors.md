@@ -51,10 +51,10 @@ However, if that does not work, then you will need to use the `/delete reaction 
 
 ### Deleting all reaction lists
 
-If you want to delete all reaction lists in your server, you can use the `/delete all reaction lists` command.
+If you want to delete all reaction lists in your server, you can use the `/clear reaction lists` command.
 This command will first ask for confirmation before proceeding to delete all reaction lists to prevent accidental deletions.
 
 ![Clear reaction lists](../../img/ClearReactionListsConfirmation.png){ width="400" loading=lazy }
 /// caption
-Confirmation prompt when using the `/delete all reaction lists` command
+Confirmation prompt when using the `/clear reaction lists` command
 ///
