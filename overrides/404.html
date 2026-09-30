@@ -1,0 +1,15 @@
+{% extends "main.html" %}
+
+{% block htmltitle %}
+  <title>Page not found - {{ config.site_name }}</title>
+{% endblock %}
+
+{% block content %}
+  <h1>Page not found</h1>
+  <p>The page you were looking for doesn't exist or has been moved.</p>
+  <ul>
+    <li><a href="/documentation/basics/">Getting Started</a> - set up Color-Chan in your server</li>
+    <li><a href="/FAQ/faq/">FAQ</a> - answers to the most common questions</li>
+    <li><a href="https://colorchan.com/permalinks/support">Support server</a> - still stuck? Ask us on Discord</li>
+  </ul>
+{% endblock %}
