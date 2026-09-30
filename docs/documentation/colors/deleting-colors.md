@@ -1,4 +1,5 @@
 ---
+title: Deleting Colors
 icon: lucide/trash
 description: Guide on how to delete colors from your Color-Chan color list
 ---

@@ -1,4 +1,5 @@
 ---
+title: Server Settings Commands
 icon: lucide/server
 description: Overview of slash commands for configuring server settings in Color-Chan
 ---
@@ -7,7 +8,7 @@ An overview of all the available Server Settings commands.
 
 ## /accent color
 Sets the accent color for color lists.
-Example: `/accent color hex: #FFFFFF`
+Example: `/accent color hex:#FFFFFF`
 
 ## /channel remove
 Removes the channel restrictions so Color-Chan can be used in all text channels again.
@@ -15,7 +16,7 @@ Removes the channel restrictions so Color-Chan can be used in all text channels 
 ## /channel set
 Sets the channel where Color-Chan's commands need to be used.
 
-## /image  style
+## /image style
 Shows a private preview of the available color list image styles.
 
 ## /management remove

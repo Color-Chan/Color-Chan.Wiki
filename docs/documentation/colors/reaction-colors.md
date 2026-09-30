@@ -1,4 +1,5 @@
 ---
+title: Reaction Colors
 icon: lucide/sticker
 description: Guide on how to add and manage reaction colors in your Color-Chan color list
 ---
@@ -28,7 +29,7 @@ Example reaction list
 
 ## Reaction list overview
 
-The `/delete reaction list` mentioned below requires the ID of the reaction list. This is the ID of the message itself.
+The `/delete reaction list` command mentioned below requires the ID of the reaction list. This is the ID of the message itself.
 You can get this with the `/reaction lists` command, which will display all the reaction lists in your server along with their IDs.
 
 
@@ -45,15 +46,15 @@ You will need to provide the name or the number of the reaction color that you w
 
 ### Deleting a specific reaction list
 
-Deleting a reaction list is normally quite simple. You can simply delete the message containing the reaction list, and it will be removed.
+Deleting a reaction list is normally quite simple. You can delete the message containing the reaction list, and it will be removed.
 However, if that does not work, then you will need to use the `/delete reaction list` command followed by the ID of the reaction list message.
 
 ### Deleting all reaction lists
 
-If you want to delete all reaction lists in your server, you can use the `/delete all reaction lists` command.
+If you want to delete all reaction lists in your server, you can use the `/clear reaction lists` command.
 This command will first ask for confirmation before proceeding to delete all reaction lists to prevent accidental deletions.
 
-![Clear reaction lists](../../img/ClearReactionListsConfirmation.png){  width="400" loading=lazy }
+![Clear reaction lists](../../img/ClearReactionListsConfirmation.png){ width="400" loading=lazy }
 /// caption
-Confirmation prompt when using the `/delete all reaction lists` command
+Confirmation prompt when using the `/clear reaction lists` command
 ///

@@ -1,4 +1,5 @@
 ---
+title: Reaction Colors Commands
 icon: lucide/thumbs-up
 description: Overview of slash commands for reaction color lists
 ---

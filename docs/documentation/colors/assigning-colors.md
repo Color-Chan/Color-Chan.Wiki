@@ -1,4 +1,5 @@
 ---
+title: Assigning Colors
 icon: lucide/pencil
 description: Guide on how users can assign colors to themselves or others using Color-Chan
 ---

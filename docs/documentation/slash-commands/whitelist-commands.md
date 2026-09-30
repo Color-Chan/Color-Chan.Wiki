@@ -1,4 +1,5 @@
 ---
+title: Whitelist Commands
 icon: lucide/shield-check
 description: Overview of slash commands for managing whitelists and blacklists
 ---

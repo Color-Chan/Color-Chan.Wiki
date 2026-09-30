@@ -1,4 +1,5 @@
 ---
+title: Default Color Lists
 icon: lucide/list
 description: Gallery of all the default color lists you can add to your server
 ---

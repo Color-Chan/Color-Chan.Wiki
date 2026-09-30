@@ -1,4 +1,5 @@
 ---
+title: Color Managers
 icon: lucide/shield-user
 description: Guide on how to manage the color management roles in Color-Chan
 ---
@@ -7,7 +8,7 @@ description: Guide on how to manage the color management roles in Color-Chan
 
 ??? info "Note"
 
-    Adding a color management role will deny users with the `Manage Roles` permission from **adding**, **editing**, and **deleting** color roles if they do not have a color management role.
+    Adding a color management role will prevent users with the `Manage Roles` permission from **adding**, **editing**, and **deleting** color roles if they do not have a color management role.
 
 Color management roles mainly allow members without the `Manage Roles` permission to manage color roles in the server using Color-Chan commands. This includes adding, deleting, and updating colors in the color list, as well as creating and managing reaction color lists. They are also exempt from any [color channel](./color-channel.md) restrictions, allowing them to use Color-Chan commands in any channel.
 

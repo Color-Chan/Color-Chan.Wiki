@@ -1,4 +1,5 @@
 ---
+title: Patreon
 icon: lucide/banknote
 description: Information on Color-Chan's Patreon integration for purchasing premium features
 ---

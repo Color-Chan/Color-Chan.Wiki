@@ -16,7 +16,7 @@ Please refer to our [Getting Started guide](../documentation/basics.md) for deta
 You can report bugs or suggest features by joining the [Color-Chan Support Server](https://colorchan.com/permalinks/support) and posting in the help or suggestion channel.
 
 ## 4. Where can I find the documentation for Color-Chan?
-The official documentation for Color-Chan can be found [here](https://wiki.colorchan.com/documentation/).
+The official documentation for Color-Chan can be found in the [Getting Started](../documentation/basics.md) guide.
 
 ## 5. How can I rearrange the colors in my color list?
 We have a dedicated guide on how to [change the order of colors in your color list](../documentation/colors/color-order.md).
@@ -39,7 +39,7 @@ Users can remove their current color role by using the `/remove color` command.
 ## 11. How can I get Color-Chan to leave my server?
 To remove Color-Chan from your server, you can simply kick the bot.
 
-## 12. I am getting a `Generic Error` what do I do?
+## 12. I am getting a `Generic Error`, what do I do?
 A `Generic Error` only indicates that something went wrong, and Color-Chan was not able to handle the error properly. Please join the [Color-Chan Support Server](https://colorchan.com/permalinks/support) and provide your Server ID, a description of what you were doing, and the full command, including the parameters you used.
 
 ## 13. Insufficient Permission error

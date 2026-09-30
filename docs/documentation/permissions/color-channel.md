@@ -1,4 +1,5 @@
 ---
+title: Color Channel
 icon: lucide/file-pen-line
 description: Guide on how to manage the color channel settings in Color-Chan
 ---
