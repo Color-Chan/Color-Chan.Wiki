@@ -22,7 +22,7 @@ Adding a default color list may take some time, so please be patient while the c
 
 Don't know which colors to add? You can use the `/suggest color` command to get a random color suggestion. This command will provide you with a color name along with a showcase of the color. You can then choose to add the suggested color to your color list if you like it, or you can request another suggestion.
 
-![Add random color](../../img/SuggestColor.png){ width="400", loading=lazy }
+![Suggest color](../../img/SuggestColor.png){ width="400" loading=lazy }
 /// caption
 Example output of the `/suggest color` command
 ///
@@ -32,7 +32,7 @@ Example output of the `/suggest color` command
 
 You can use the `/add random color` command to add a random color to your color list. Each time you use this command, a new random color will be generated and added.
 
-![Add random color](../../img/AddRandomColor.png){ width="400", loading=lazy }
+![Add random color](../../img/AddRandomColor.png){ width="400" loading=lazy }
 /// caption
 Example output of the `/add random color` command
 ///

@@ -16,7 +16,7 @@ Please refer to our [Getting Started guide](../documentation/basics.md) for deta
 You can report bugs or suggest features by joining the [Color-Chan Support Server](https://colorchan.com/permalinks/support) and posting in the help or suggestion channel.
 
 ## 4. Where can I find the documentation for Color-Chan?
-The official documentation for Color-Chan can be found [here](https://wiki.colorchan.com/documentation/).
+The official documentation for Color-Chan can be found in the [Getting Started](../documentation/basics.md) guide.
 
 ## 5. How can I rearrange the colors in my color list?
 We have a dedicated guide on how to [change the order of colors in your color list](../documentation/colors/color-order.md).
