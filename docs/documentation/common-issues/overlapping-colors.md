@@ -1,4 +1,5 @@
 ---
+title: Overlapping Colors
 icon: lucide/blend
 description: Guide on resolving issues with overlapping colors in Color-Chan
 ---

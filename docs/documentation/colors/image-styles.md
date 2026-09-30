@@ -1,4 +1,5 @@
 ---
+title: Image Styles
 icon: lucide/image
 description: Guide on how to preview and choose an image style for your Color-Chan color list
 ---

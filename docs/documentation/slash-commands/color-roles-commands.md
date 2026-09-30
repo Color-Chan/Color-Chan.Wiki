@@ -1,4 +1,5 @@
 ---
+title: Color Roles Commands
 icon: lucide/palette
 description: Overview of slash commands for managing and assigning color roles
 ---

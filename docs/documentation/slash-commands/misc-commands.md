@@ -1,4 +1,5 @@
 ---
+title: Miscellaneous Commands
 icon: lucide/zap
 description: Overview of miscellaneous slash commands in Color-Chan
 ---

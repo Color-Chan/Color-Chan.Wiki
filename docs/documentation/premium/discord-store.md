@@ -1,4 +1,5 @@
 ---
+title: Discord Store
 icon: lucide/paintbrush
 description: Information on Color-Chan's Discord Store integration for purchasing premium features
 ---

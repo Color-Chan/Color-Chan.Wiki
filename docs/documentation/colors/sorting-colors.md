@@ -1,4 +1,5 @@
 ---
+title: Sorting Colors
 icon: lucide/arrow-down-up
 description: Guide on how to automatically sort your Color-Chan color list
 ---

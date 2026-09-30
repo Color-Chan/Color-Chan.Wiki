@@ -1,4 +1,5 @@
 ---
+title: Adding Colors
 icon: lucide/palette
 description: Guide on how to add colors to your Color-Chan color list
 ---

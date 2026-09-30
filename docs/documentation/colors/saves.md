@@ -1,4 +1,5 @@
 ---
+title: Saves
 icon: lucide/save
 description: Guide on how to create, view, share, restore, and delete saves of your Color-Chan color list
 ---

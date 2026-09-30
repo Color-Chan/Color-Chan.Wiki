@@ -1,4 +1,5 @@
 ---
+title: Getting Started
 icon: lucide/rocket
 description: Basic guide on how to get started with Color-Chan
 ---
