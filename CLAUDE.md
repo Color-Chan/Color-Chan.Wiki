@@ -18,7 +18,7 @@ docker logs color-chan-wiki     # check build output / "No issues found"
 docker compose down
 ```
 
-CI build only, for reference — not for local testing (`.github/workflows/build-wiki.yml`):
+CI build only, for reference — not for local testing (`.github/workflows/build-wiki.yml`): 
 ```bash
 pip install zensical
 zensical build --clean
